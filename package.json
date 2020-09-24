@@ -61,7 +61,7 @@
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-grid-layout": "0.18.3",
+    "react-grid-layout": "1.1.1",
     "require-environment-variables": "1.2.0",
     "sass": "1.26.11",
     "semantic-ui-css": "2.4.1",
