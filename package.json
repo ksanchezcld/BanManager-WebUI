@@ -32,7 +32,7 @@
     "es6-dynamic-template": "2.0.0",
     "file-loader": "6.1.0",
     "graphql": "14.7.0",
-    "graphql-constraint-directive": "1.4.1",
+    "graphql-constraint-directive": "2.2.0",
     "graphql-depth-limit": "1.1.0",
     "graphql-parse-resolve-info": "4.9.0",
     "graphql-react": "11.1.0",
@@ -69,7 +69,7 @@
     "semver": "7.3.2",
     "url-loader": "4.1.0",
     "uuid-parse": "1.1.0",
-    "validator": "13.1.17",
+    "validator": "13.15.20",
     "web-push": "3.4.4"
   },
   "devDependencies": {
